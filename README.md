@@ -8,3 +8,4 @@ Juego Amigo Secreto
 * Se reinicia para un nuevo sorteo.
 
 Hecho con Amor!
+![amigo secreto](https://github.com/user-attachments/assets/a4fb8e2a-3f25-4cda-b886-5593b0aa3e5c)
